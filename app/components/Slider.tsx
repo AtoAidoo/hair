@@ -34,7 +34,7 @@ const slides =[
 const Slider= () => {
     const [current, setCurrent] = useState(0)
 
-    return (
+    return(
         <div className='h-[calc(100vh-80vh)] overflow-hidden'>
             <div className="w-max h-full flex transtion-all ease-in-out duration-1000">
                 {slides.map((slide) => (
@@ -43,7 +43,7 @@ const Slider= () => {
                     key={slide.id}
                     >
                         {/* TEXT CONTAINER */}
-                        <div className="h-1/2 xl:w-1/2 flex flex-col items-center justify-center gap-8 2xl:gap-12 text-center">
+                        <div className="h-1/2 xl:w-1/2 xl:h-full flex flex-col items-center justify-center gap-8 2xl:gap-12 text-center">
                             <h2 className="text-xl lg:text-3xl 2xl:text-5xl">{slide.description}</h2>
                             <h1 className="text-5xl lg:text-3xl 2xl:text-5xl font-semibold">{slide.title}</h1>
                             <Link href={slide.url}>
@@ -62,6 +62,21 @@ const Slider= () => {
                         </div>
                     </div>
                 ))}
+            </div>
+            <div className ="absolute m-auto left-1/2 buttom-8 flex gap-4">
+                {slides.map((slide, index) => (
+                    <div 
+                        className={'w-3 h-3 rounded-full ring-1 ring-gray-600 cursor-pointer flex items-center justfy-center ${
+                            current === index ? "scale-150" : ""
+                        }
+                        key={slide.id}
+                        onClick={() => setCurrent(index)}
+                    >
+                        {current === index && (
+                            <div className="w-[6px] h-[6px] bg-gray-600 rounded-full"></div>
+                        )}
+                    </div>
+                ))} 
             </div>
         </div>
     );
