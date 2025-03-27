@@ -57,7 +57,7 @@ const NavIcons = () => {
             </div>
             {isCartOpen && <CartModal/>}
         </div>
-    )
+    ) 
 }
 
 export default NavIcons
