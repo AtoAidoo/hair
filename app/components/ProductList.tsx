@@ -7,7 +7,7 @@ const ProductList = () => {
            <Link href="/test" className="w-full flex flex-col gap-4 sm:w-[45%] lg:w-[22%]">
             <div className="relative w-full h-80">
                     <Image 
-                        src="https://images.pexels.com/photos/1586999/pexels-photo-1586999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+                        src="https://images.pexels.com/photos/1987301/pexels-photo-1987301.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                         alt=""
                         fill 
                         sizes="25vw"
