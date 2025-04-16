@@ -8,7 +8,7 @@ const CategoryList = () => {
                 <Link href="/List?cat=test" className="flex-shrink-0w-full sm:w-1/2 lg:w-1/4 xl:w-1/6">
                     <div className="relative bg-slate-100 w-full h-98">
                         <Image 
-                            src="https://images.pexels.com/photo/female-standing-with-left-hand-on-chin-1586999" 
+                            src="https://images.pexels.com/photos/1586999/pexels-photo-1586999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                             alt="" 
                             fill 
                             sizes="20vw" 
@@ -20,7 +20,7 @@ const CategoryList = () => {
                 <Link href="/List?cat=test" className="flex-shrink-0w-full sm:w-1/2 lg:w-1/4 xl:w-1/6">
                     <div className="relative bg-slate-100 w-full h-98">
                         <Image 
-                            src="https://images.pexels.com/photo/female-standing-with-left-hand-on-chin-1586999" 
+                            src="https://images.pexels.com/photos/1586999/pexels-photo-1586999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                             alt="" 
                             fill 
                             sizes="20vw" 
@@ -32,7 +32,7 @@ const CategoryList = () => {
                 <Link href="/List?cat=test" className="flex-shrink-0w-full sm:w-1/2 lg:w-1/4 xl:w-1/6">
                     <div className="relative bg-slate-100 w-full h-98">
                         <Image 
-                            src="https://images.pexels.com/photo/female-standing-with-left-hand-on-chin-1586999" 
+                            src="https://images.pexels.com/photos/1586999/pexels-photo-1586999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                             alt="" 
                             fill 
                             sizes="20vw" 
@@ -44,7 +44,7 @@ const CategoryList = () => {
                 <Link href="/List?cat=test" className="flex-shrink-0w-full sm:w-1/2 lg:w-1/4 xl:w-1/6">
                     <div className="relative bg-slate-100 w-full h-98">
                         <Image 
-                            src="https://images.pexels.com/photo/female-standing-with-left-hand-on-chin-1586999" 
+                            src="https://images.pexels.com/photos/1586999/pexels-photo-1586999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                             alt="" 
                             fill 
                             sizes="20vw" 
@@ -56,7 +56,7 @@ const CategoryList = () => {
                 <Link href="/List?cat=test" className="flex-shrink-0w-full sm:w-1/2 lg:w-1/4 xl:w-1/6">
                     <div className="relative bg-slate-100 w-full h-98">
                         <Image 
-                            src="https://images.pexels.com/photo/female-standing-with-left-hand-on-chin-1586999" 
+                            src="https://images.pexels.com/photos/1586999/pexels-photo-1586999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                             alt="" 
                             fill 
                             sizes="20vw" 
@@ -68,7 +68,7 @@ const CategoryList = () => {
                 <Link href="/List?cat=test" className="flex-shrink-0w-full sm:w-1/2 lg:w-1/4 xl:w-1/6">
                     <div className="relative bg-slate-100 w-full h-98">
                         <Image 
-                            src="https://images.pexels.com/photo/female-standing-with-left-hand-on-chin-1586999" 
+                            src="https://images.pexels.com/photos/1586999/pexels-photo-1586999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                             alt="" 
                             fill 
                             sizes="20vw" 
@@ -80,7 +80,7 @@ const CategoryList = () => {
                 <Link href="/List?cat=test" className="flex-shrink-0w-full sm:w-1/2 lg:w-1/4 xl:w-1/6">
                     <div className="relative bg-slate-100 w-full h-98">
                         <Image 
-                            src="https://images.pexels.com/photo/female-standing-with-left-hand-on-chin-1586999" 
+                            src="https://images.pexels.com/photos/1586999/pexels-photo-1586999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                             alt="" 
                             fill 
                             sizes="20vw" 
@@ -92,7 +92,7 @@ const CategoryList = () => {
                 <Link href="/List?cat=test" className="flex-shrink-0w-full sm:w-1/2 lg:w-1/4 xl:w-1/6">
                     <div className="relative bg-slate-100 w-full h-98">
                         <Image 
-                            src="https://images.pexels.com/photo/female-standing-with-left-hand-on-chin-1586999" 
+                            src="https://images.pexels.com/photos/1586999/pexels-photo-1586999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                             alt="" 
                             fill 
                             sizes="20vw" 
@@ -104,7 +104,7 @@ const CategoryList = () => {
                 <Link href="/List?cat=test" className="flex-shrink-0w-full sm:w-1/2 lg:w-1/4 xl:w-1/6">
                     <div className="relative bg-slate-100 w-full h-98">
                         <Image 
-                            src="https://images.pexels.com/photo/female-standing-with-left-hand-on-chin-1586999" 
+                            src="https://images.pexels.com/photos/1586999/pexels-photo-1586999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                             alt="" 
                             fill 
                             sizes="20vw" 
@@ -116,7 +116,7 @@ const CategoryList = () => {
                 <Link href="/List?cat=test" className="flex-shrink-0w-full sm:w-1/2 lg:w-1/4 xl:w-1/6">
                     <div className="relative bg-slate-100 w-full h-98">
                         <Image 
-                            src="https://images.pexels.com/photo/female-standing-with-left-hand-on-chin-1586999" 
+                            src="https://images.pexels.com/photos/1586999/pexels-photo-1586999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                             alt="" 
                             fill 
                             sizes="20vw" 
@@ -128,7 +128,7 @@ const CategoryList = () => {
                 <Link href="/List?cat=test" className="flex-shrink-0w-full sm:w-1/2 lg:w-1/4 xl:w-1/6">
                     <div className="relative bg-slate-100 w-full h-98">
                         <Image 
-                            src="https://images.pexels.com/photo/female-standing-with-left-hand-on-chin-1586999" 
+                            src="https://images.pexels.com/photos/1586999/pexels-photo-1586999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                             alt="" 
                             fill 
                             sizes="20vw" 
@@ -140,7 +140,7 @@ const CategoryList = () => {
                 <Link href="/List?cat=test" className="flex-shrink-0w-full sm:w-1/2 lg:w-1/4 xl:w-1/6">
                     <div className="relative bg-slate-100 w-full h-98">
                         <Image 
-                            src="https://images.pexels.com/photo/female-standing-with-left-hand-on-chin-1586999" 
+                            src="https://images.pexels.com/photos/1586999/pexels-photo-1586999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                             alt="" 
                             fill 
                             sizes="20vw" 
@@ -152,7 +152,7 @@ const CategoryList = () => {
                 <Link href="/List?cat=test" className="flex-shrink-0w-full sm:w-1/2 lg:w-1/4 xl:w-1/6">
                     <div className="relative bg-slate-100 w-full h-98">
                         <Image 
-                            src="https://images.pexels.com/photo/female-standing-with-left-hand-on-chin-1586999" 
+                            src="https://images.pexels.com/photos/1586999/pexels-photo-1586999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                             alt="" 
                             fill 
                             sizes="20vw" 
@@ -164,7 +164,7 @@ const CategoryList = () => {
                 <Link href="/List?cat=test" className="flex-shrink-0w-full sm:w-1/2 lg:w-1/4 xl:w-1/6">
                     <div className="relative bg-slate-100 w-full h-98">
                         <Image 
-                            src="https://images.pexels.com/photo/female-standing-with-left-hand-on-chin-1586999" 
+                            src="https://images.pexels.com/photos/1586999/pexels-photo-1586999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                             alt="" 
                             fill 
                             sizes="20vw" 
@@ -176,7 +176,7 @@ const CategoryList = () => {
                 <Link href="/List?cat=test" className="flex-shrink-0w-full sm:w-1/2 lg:w-1/4 xl:w-1/6">
                     <div className="relative bg-slate-100 w-full h-98">
                         <Image 
-                            src="https://images.pexels.com/photo/female-standing-with-left-hand-on-chin-1586999" 
+                            src="https://images.pexels.com/photos/1586999/pexels-photo-1586999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                             alt="" 
                             fill 
                             sizes="20vw" 
@@ -188,7 +188,7 @@ const CategoryList = () => {
                 <Link href="/List?cat=test" className="flex-shrink-0w-full sm:w-1/2 lg:w-1/4 xl:w-1/6">
                     <div className="relative bg-slate-100 w-full h-98">
                         <Image 
-                            src="https://images.pexels.com/photo/female-standing-with-left-hand-on-chin-1586999" 
+                            src="https://images.pexels.com/photos/1586999/pexels-photo-1586999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                             alt="" 
                             fill 
                             sizes="20vw" 
@@ -200,7 +200,7 @@ const CategoryList = () => {
                 <Link href="/List?cat=test" className="flex-shrink-0w-full sm:w-1/2 lg:w-1/4 xl:w-1/6">
                     <div className="relative bg-slate-100 w-full h-98">
                         <Image 
-                            src="https://images.pexels.com/photo/female-standing-with-left-hand-on-chin-1586999" 
+                            src="https://images.pexels.com/photos/1586999/pexels-photo-1586999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                             alt="" 
                             fill 
                             sizes="20vw" 
@@ -212,7 +212,7 @@ const CategoryList = () => {
                 <Link href="/List?cat=test" className="flex-shrink-0w-full sm:w-1/2 lg:w-1/4 xl:w-1/6">
                     <div className="relative bg-slate-100 w-full h-98">
                         <Image 
-                            src="https://images.pexels.com/photo/female-standing-with-left-hand-on-chin-1586999" 
+                            src="https://images.pexels.com/photos/1586999/pexels-photo-1586999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                             alt="" 
                             fill 
                             sizes="20vw" 
